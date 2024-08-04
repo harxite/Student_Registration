@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|c:\\users\\harun\\desktop\\projects-github\\student_registration\\student_registration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|solutionrelative:student_registration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|c:\\users\\harun\\desktop\\projects-github\\student_registration\\student_registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|solutionrelative:student_registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|c:\\users\\harun\\desktop\\projects-github\\student_registration\\student_registration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|solutionrelative:student_registration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|c:\\users\\harun\\desktop\\projects-github\\student_registration\\student_registration\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|solutionrelative:student_registration\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|c:\\users\\harun\\desktop\\projects-github\\student_registration\\student_registration\\migrations\\20240804164654_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|solutionrelative:student_registration\\migrations\\20240804164654_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|c:\\users\\harun\\desktop\\projects-github\\student_registration\\student_registration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|solutionrelative:student_registration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|c:\\users\\harun\\desktop\\projects-github\\student_registration\\student_registration\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|solutionrelative:student_registration\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|c:\\users\\harun\\desktop\\projects-github\\student_registration\\student_registration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E170921-C3D3-4098-A8AB-8FD2C1A39F1C}|Student_Registration\\Student_Registration.csproj|solutionrelative:student_registration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Student_Registration\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Student_Registration\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T16:50:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Student_Registration\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\appsettings.Development.json",
+              "RelativeToolTip": "Student_Registration\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T16:50:50.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240804164654_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Migrations\\20240804164654_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Student_Registration\\Migrations\\20240804164654_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Migrations\\20240804164654_InitialCreate.cs",
+              "RelativeToolTip": "Student_Registration\\Migrations\\20240804164654_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:46:55.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Student_Registration\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Student_Registration\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:48:26.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Registration\\Program.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Program.cs",
+              "RelativeToolTip": "Student_Registration\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:47:40.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\appsettings.json",
+              "RelativeDocumentMoniker": "Student_Registration\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\appsettings.json",
+              "RelativeToolTip": "Student_Registration\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T15:47:08.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "Student_Registration\\Data\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Data\\StudentContext.cs",
+              "RelativeToolTip": "Student_Registration\\Data\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:46:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Student_Registration\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\Student_Registration\\Student_Registration\\Models\\Student.cs",
+              "RelativeToolTip": "Student_Registration\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:44:37.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
